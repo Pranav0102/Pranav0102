@@ -6,7 +6,7 @@
  
 
 # 💫 About Me:
-🌱 I’m currently learning Flutter, Openshift<br><br>👯 I’m looking to collaborate on Cloud Native Projects<br><br>🤝 I’m looking for help with DevOps<br><br>💬 Ask me about Devops,C++,Python,DSA<br><br>📫 How to reach me 01pranavkumarsingh@gmail.com<br><br>⚡ Fun fact Linux kernel was initially written by Linus Torvalds in 1991 as a hobby
+🌱 I’m currently learning Devops<br><br>👯 I’m looking to collaborate on Cloud Native Projects<br><br>🤝 I’m looking for help with DevOps<br><br>💬 Ask me about Devops,C++,Python,DSA<br><br>📫 How to reach me 01pranavkumarsingh@gmail.com<br><br>⚡ Fun fact Linux kernel was initially written by Linus Torvalds in 1991 as a hobby
 
 
 ## 🌐 Socials:
